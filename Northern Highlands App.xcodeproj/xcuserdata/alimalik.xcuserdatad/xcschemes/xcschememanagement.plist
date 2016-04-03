@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Northern Highlands App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>0316732B1CB07CE40064EEB9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0316733F1CB07CE50064EEB9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0316734A1CB07CE50064EEB9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
